@@ -10,7 +10,7 @@ if choice1 == "left":
         if choice3 == "red":
             print("Game Over. You were burned by fire.")
         elif choice3 == "yellow":
-            print("You win! You found the treasure! 🏆")
+            print("You win! You found the treasure!")
         elif choice3 == "blue":
             print("Game Over. You were eaten by beasts.")
         else:
